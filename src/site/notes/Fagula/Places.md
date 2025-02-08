@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/fagula/places/"}
 ---
 
+[[Home Page\|Home Page]]
+[[Fagula/Characters\|Characters]]
+
 Places
 --
 ___
@@ -35,5 +38,3 @@ ___
 [[Fagula/Places/Flying station of Ambrosia\|Flying station of Ambrosia]]
 
 
-[[Home Page\|Home Page]]
-[[Fagula/Characters\|Characters]]

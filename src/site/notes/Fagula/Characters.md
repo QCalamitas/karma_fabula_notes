@@ -3,6 +3,7 @@
 ---
 
 [[Home Page\|Home Page]]
+[[Fagula/Places\|Places]]
 
 Character list
 
