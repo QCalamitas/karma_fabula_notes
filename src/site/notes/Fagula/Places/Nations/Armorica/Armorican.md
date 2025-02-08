@@ -2,6 +2,10 @@
 {"dg-publish":true,"permalink":"/fagula/places/nations/armorica/armorican/"}
 ---
 
+[[Home Page\|Home Page]]
+[[Fagula/Characters\|Characters]]
+[[Fagula/Places\|Places]]
+
 Armorican
 --
 
@@ -15,5 +19,3 @@ Known armoricans:
 [[Fagula/Characters/Allies/Party/Lavigne Fallbright\|Lavigne Fallbright]]
 [[Fagula/Characters/Allies/The Fallbrights/Victor Fallbright.\|Victor Fallbright.]]
 
-
-[[Home Page\|Home Page]]

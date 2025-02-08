@@ -2,6 +2,10 @@
 {"dg-publish":true,"permalink":"/fagula/places/nations/elonia/the-empire-of-elonia/"}
 ---
 
+[[Home Page\|Home Page]]
+[[Fagula/Characters\|Characters]]
+[[Fagula/Places\|Places]]
+
 The Empire of Elonia
 --
 ___

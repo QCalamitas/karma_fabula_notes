@@ -2,6 +2,10 @@
 {"dg-publish":true,"permalink":"/fagula/places/flying-station-of-ambrosia/"}
 ---
 
+[[Home Page\|Home Page]]
+[[Fagula/Characters\|Characters]]
+[[Fagula/Places\|Places]]
+
 Flying station of Ambrosia
 --
 ___

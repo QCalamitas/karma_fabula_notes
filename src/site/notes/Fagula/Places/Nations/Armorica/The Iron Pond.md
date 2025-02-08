@@ -2,6 +2,10 @@
 {"dg-publish":true,"permalink":"/fagula/places/nations/armorica/the-iron-pond/"}
 ---
 
+[[Home Page\|Home Page]]
+[[Fagula/Characters\|Characters]]
+[[Fagula/Places\|Places]]
+
 The Iron Pond
 --
 
@@ -9,5 +13,3 @@ An [[Fagula/Places/Nations/Armorica/Armorican\|Armorican]] prison in the [[Fagul
 
 Notably, it was guarded by [[Fagula/Characters/Enemies/Percy, Demon of Hell\|Percy, Demon of Hell]], and held [[Fagula/Characters/Allies/Drax\|Drax]], as well as many other red band members who were presumably close with [[Fagula/Characters/Allies/Atticus\|Atticus]].
 
-[[Home Page\|Home Page]]
-[[Fagula/Characters\|Characters]]

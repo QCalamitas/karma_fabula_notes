@@ -2,6 +2,10 @@
 {"dg-publish":true,"permalink":"/fagula/places/nations/dunova/nation-of-dunova/"}
 ---
 
+[[Home Page\|Home Page]]
+[[Fagula/Characters\|Characters]]
+[[Fagula/Places\|Places]]
+
 Nation of Dunova
 --
 

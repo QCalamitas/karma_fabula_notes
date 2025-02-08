@@ -2,6 +2,10 @@
 {"dg-publish":true,"permalink":"/fagula/places/nations/beast-kingdom/beast-kingdom/"}
 ---
 
+[[Home Page\|Home Page]]
+[[Fagula/Characters\|Characters]]
+[[Fagula/Places\|Places]]
+
 Beast Kingdom
 --
 ___
