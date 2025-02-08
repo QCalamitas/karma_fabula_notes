@@ -1,0 +1,37 @@
+---
+{"dg-publish":true,"permalink":"/fagula/characters/"}
+---
+
+Characters:
+
+[[Fagula/Characters/Enemies/Adela\|Adela]]
+[[Fagula/Characters/Allies/Aster\|Aster]]
+[[Fagula/Characters/Allies/Atticus\|Atticus]]
+[[Fagula/Characters/Neutral Unknown or Families/Aracnum of Gahenna/Achilles\|Achilles]]
+[[Fagula/Characters/Allies/Cornelia\|Cornelia]]
+[[Fagula/Characters/Allies/Desdemona Perses\|Desdemona Perses]]
+[[Fagula/Characters/Allies/Deshe-Valt\|Deshe-Valt]]
+[[Fagula/Characters/Allies/Drax\|Drax]]
+[[Fagula/Characters/Enemies/Dr.Martel\|Dr.Martel]]
+[[Fagula/Characters/Allies/Party/Edgar (Pemble)\|Edgar (Pemble)]]
+[[Fagula/Characters/Allies/Emily\|Emily]]
+[[Fagula/Characters/Enemies/Eris Blackburrow\|Eris Blackburrow]]
+[[Fagula/Characters/Deceased/Emily (Pemble)\|Emily (Pemble)]]
+[[Fagula/Characters/Allies/Party/Lavigne Fallbright\|Lavigne Fallbright]]
+[[Fagula/Characters/Allies/Leon\|Leon]]
+[[Fagula/Characters/Allies/Liana Voldar\|Liana Voldar]]
+[[Fagula/Characters/Enemies/Novo\|Novo]]
+[[Fagula/Characters/Allies/Olivia\|Olivia]]
+[[Fagula/Characters/Neutral Unknown or Families/Aracnum of Gahenna/Orpheus, The Bishop.\|Orpheus, The Bishop.]]
+[[Fagula/Characters/Enemies/Otto Von Strobe\|Otto Von Strobe]]
+[[Fagula/Characters/Allies/Phin\|Phin]]
+[[Fagula/Characters/Allies/Party/Raphia Clarimonde\|Raphia Clarimonde]]
+[[Fagula/Characters/Allies/Reemus, The Pawn.\|Reemus, The Pawn.]]
+[[Fagula/Characters/Enemies/Rowan Lucius\|Rowan Lucius]]
+[[Fagula/Characters/Enemies/Rowan Lucius\|Rowan Lucius]]
+[[Fagula/Characters/Neutral Unknown or Families/Aracnum of Gahenna/Sacharat\|Sacharat]]
+[[Fagula/Characters/Neutral Unknown or Families/Aracnum of Gahenna/Scylla\|Scylla]]
+[[Fagula/Characters/Neutral Unknown or Families/Aracnum of Gahenna/Serine\|Serine]]
+[[Fagula/Characters/Deceased/Sophia Lucius\|Sophia Lucius]]
+[[Fagula/Characters/Allies/Tristan Perses\|Tristan Perses]]
+[[Fagula/Characters/Allies/The Fallbrights/Victor Fallbright.\|Victor Fallbright.]]
