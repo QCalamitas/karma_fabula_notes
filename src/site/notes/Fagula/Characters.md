@@ -2,8 +2,20 @@
 {"dg-publish":true,"permalink":"/fagula/characters/"}
 ---
 
-Characters:
+[[Home Page\|Home Page]]
 
+Character list
+
+Allies
+--
+__________________
+
+Enemies
+--
+___
+Neutral/Unknown
+--
+___
 [[Fagula/Characters/Enemies/Adela\|Adela]]
 [[Fagula/Characters/Allies/Aster\|Aster]]
 [[Fagula/Characters/Allies/Atticus\|Atticus]]
