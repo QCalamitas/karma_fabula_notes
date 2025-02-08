@@ -12,7 +12,7 @@ Party
 ___
 [[Fagula/Characters/Allies/Party/Raphia Clarimonde\|Raphia Clarimonde]]
 [[Fagula/Characters/Allies/Party/Edgar (Pemble)\|Edgar (Pemble)]]
-[[Fagula/Characters/Allies/Party/Lavigne Fallbright\|Lavigne Fallbright]]
+[[Fagula/Characters/Allies/Party/Lavigne Fallbright\|Fagula/Characters/Allies/Party/Lavigne Fallbright]]
 
 Allies
 --
@@ -52,9 +52,11 @@ Neutral/Unknown
 ___
 [[Fagula/Characters/Neutral Unknown or Families/Aracnum of Gahenna/Achilles\|Achilles]]
 [[Fagula/Characters/Neutral Unknown or Families/Aracnum of Gahenna/Sacharat\|Sacharat]]
+
 Deceased
 --
 ___
+[[Fagula/Characters/Deceased/Emily (Pemble)\|Emily (Pemble)]]
 [[Fagula/Characters/Enemies/Rowan Lucius\|Rowan Lucius]]
 [[Fagula/Characters/Deceased/Sophia Lucius\|Sophia Lucius]]
 [[Fagula/Characters/Allies/The Fallbrights/Victor Fallbright.\|Victor Fallbright.]]
