@@ -13,6 +13,7 @@ ___
 [[Fagula/Characters/Allies/Party/Raphia Clarimonde\|Raphia Clarimonde]]
 [[Fagula/Characters/Allies/Party/Edgar (Pemble)\|Edgar (Pemble)]]
 [[Fagula/Characters/Allies/Party/Lavigne Fallbright\|Lavigne Fallbright]]
+
 Allies
 --
 __________________
