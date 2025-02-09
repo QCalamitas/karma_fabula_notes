@@ -11,4 +11,4 @@ Eris Blackburrow
 ___
 from [[Fagula/Places/Nations/Elonia/The Empire of Elonia\|The Empire of Elonia]]. sad E-girl working for [[Fagula/Characters/Enemies/Dr.Martel\|Dr.Martel]].
 
-Really hates [[Fagula/Characters/Allies/Party/Lavigne Fallbright\|Fagula/Characters/Allies/Party/Lavigne Fallbright]]'s guts. She is extremely talented in magic.
+Really hates [[Fagula/Characters/Allies/Party/Lavigne Fallbright\|Lavigne Fallbright]]'s guts. She is extremely talented in magic.

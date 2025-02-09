@@ -4,4 +4,4 @@
 
 Stand in queen of [[Fagula/Places/Nations/Dunova/Nation of Dunova\|Nation of Dunova]], sister of [[Fagula/Characters/Allies/Party/Raphia Clarimonde\|Raphia Clarimonde]], member of the [[Fagula/Characters/Allies/Clarimonde Family/Clarimonde\|Clarimonde]] family.
 
-Hired [[Fagula/Characters/Allies/Party/Lavigne Fallbright\|Fagula/Characters/Allies/Party/Lavigne Fallbright]] and [[Fagula/Characters/Allies/Party/Edgar (Pemble)\|Edgar (Pemble)]] to the [[Fagula/Characters/Allies/Party/Party\|Party]].
+Hired [[Fagula/Characters/Allies/Party/Lavigne Fallbright\|Lavigne Fallbright]] and [[Fagula/Characters/Allies/Party/Edgar (Pemble)\|Edgar (Pemble)]] to the [[Fagula/Characters/Allies/Party/Party\|Party]].
