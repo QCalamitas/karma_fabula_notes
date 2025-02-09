@@ -4,10 +4,7 @@
 
 [[Home Page\|Home Page]]
 [[Fagula/Places\|Places]]
-
 Character list
-
-
 Party
 --
 ___
@@ -35,7 +32,7 @@ __________________
 -[[Fagula/Characters/Neutral Unknown or Families/Aracnum of Gahenna/Serine\|Serine]]
 -[[Fagula/Characters/Allies/Tristan Perses\|Tristan Perses]]
 
--Enemies
+Enemies
 --
 ___
 -[[Fagula/Characters/Enemies/Adela\|Adela]]

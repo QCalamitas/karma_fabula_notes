@@ -5,7 +5,6 @@
 [[Home Page\|Home Page]]
 [[Fagula/Characters\|Characters]]
 [[Fagula/Places\|Places]]
-
 Liana Voldar
 --
 ___
