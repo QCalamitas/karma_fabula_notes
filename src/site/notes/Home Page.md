@@ -8,3 +8,4 @@ Is a campaign run by RaagyTheRat, played by Bluemob88, Kurohiro, and Karmalesbia
 
 [[Fagula/Characters\|Characters]]
 [[Fagula/Places\|Places]]
+[[Fagula/Events and Arcs\|Events and Arcs]]
